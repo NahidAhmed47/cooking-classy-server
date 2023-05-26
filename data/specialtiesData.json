@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/f4cT3Vf/desserts-pic.jpg",
+        "title": "Dinner & Dessert",
+        "description": "Eating dessert after dinner is a common practice in the U.S.—from ice cream to cake to cookies and more. So, we have perfect recipes for this."
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/SQq7k6g/brackfastchef.jpg",
+        "title": "BreakFast",
+        "description": "Breakfast are very popular in the U.S. We provide best recipes and chefs for make sure you have a better experience with breakfast."
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/FX1kQRh/ica-shakes.jpg",
+        "title": "Ice Shakes",
+        "description": "In Ice Shakes, fine particle size xanthan gum provides rapid, high viscosity development in cold or hot systems and yields excellent texture and flavour release."
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/VD6nD4h/baverage.jpg",
+        "title": "Beverage",
+        "description": "You can love beverage? You can also enjoy with our awesome beverages and make a excellent experience."
+    }
+]

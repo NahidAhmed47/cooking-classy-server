@@ -1,0 +1,519 @@
+[
+  {
+    "id": 1,
+    "chef_name": "Jamie Oliver",
+    "chef_picture": "https://i.ibb.co/4JtjwN5/chef5.jpg",
+    "years_of_experience": 25,
+    "num_of_recipes": 200,
+    "likes": "12k",
+    "description": "Jamie Oliver is a British chef and television personality. He is known for his focus on healthy eating and sustainable food practices. He has written numerous cookbooks and hosted several television shows, including The Naked Chef and Jamie Oliver's Food Revolution.",
+    "recipes": [
+      {
+        "recipe_name": "Roast Beef",
+        "img": "https://i.ibb.co/k2zySgn/recipe1.jpg",
+        "ingredients": [
+          "2 lb beef roast",
+          "1 tbsp olive oil",
+          "2 cloves garlic",
+          "1 tsp rosemary",
+          "salt and pepper"
+        ],
+        "cooking_method": "Preheat oven to 425 degrees. Season the beef with garlic, rosemary, salt, and pepper. Rub with olive oil and roast for 1 hour until cooked to desired doneness.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Spaghetti Carbonara",
+        "img": "https://i.ibb.co/XVB0GTD/recipe2.jpg",
+        "ingredients": [
+          "1 lb spaghetti",
+          "6 oz pancetta",
+          "4 egg yolks",
+          "1/2 cup grated Parmesan cheese",
+          "1/2 cup heavy cream"
+        ],
+        "cooking_method": "Cook spaghetti according to package directions. Cook pancetta in a skillet until crispy. Whisk together egg yolks, Parmesan cheese, and heavy cream. Drain spaghetti, add to skillet with pancetta, and toss with egg mixture until creamy.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Vegetable Curry",
+        "img": "https://i.ibb.co/NtsY0d9/recipe3.jpg",
+        "ingredients": [
+          "2 cups mixed vegetables",
+          "1 onion",
+          "2 cloves garlic",
+          "1 tsp curry powder",
+          "1 cup vegetable broth"
+        ],
+        "cooking_method": "Heat oil in a saucepan, add onion and garlic and cook until softened. Add curry powder and mixed vegetables and cook for 5 minutes. Add vegetable broth and simmer for 20 minutes until vegetables are tender.",
+        "rating": 4.0
+      },
+      {
+        "recipe_name": "Baked Potatoes",
+        "img": "https://i.ibb.co/Mgk5WSq/recipe4.jpg",
+        "ingredients": [
+          "4 large potatoes",
+          "1/4 cup butter",
+          "1/4 cup sour cream",
+          "1/4 cup chives",
+          "salt and pepper"
+        ],
+        "cooking_method": "Preheat oven to 400 degrees. Pierce potatoes with a fork and bake for 1 hour until tender. Cut open, top with butter, sour cream, chives, salt, and pepper.",
+        "rating": 4.1
+      },
+      {
+        "recipe_name": "Lobster Mac and Cheese",
+        "img": "https://i.ibb.co/XVB0GTD/recipe2.jpg",
+        "ingredients": [
+          "1 lb macaroni",
+          "1 lb lobster meat",
+          "1/4 cup butter",
+          "1/4 cup flour",
+          "2 cups milk"
+        ],
+        "cooking_method": "Preheat oven to 350 degrees. Whisk together flour, cocoa powder, baking soda, salt, and sugar. Stir in eggs, buttermilk, and melted butter until smooth. Pour into a greased cake pan and bake for 35-40 minutes",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chef_name": "Ina Garten",
+    "chef_picture": "https://i.ibb.co/sPm1ZqW/chef6.jpg",
+    "years_of_experience": 40,
+    "num_of_recipes": 300,
+    "likes": "15k",
+    "description": "Ina Garten is an American chef, author, and television personality. She is best known for her show Barefoot Contessa and her cookbooks, which focus on simple and elegant recipes that can be made at home.",
+    "recipes": [
+      {
+        "recipe_name": "Roast Chicken",
+        "img": "https://i.ibb.co/XVB0GTD/recipe2.jpg",
+        "ingredients": [
+          "1 whole chicken",
+          "1 lemon",
+          "1 head garlic",
+          "1/4 cup butter",
+          "1/4 cup olive oil"
+        ],
+        "cooking_method": "",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Pasta Carbonara",
+        "img": "https://i.ibb.co/NtsY0d9/recipe3.jpg",
+        "ingredients": [
+          "1 lb spaghetti",
+          "4 oz pancetta",
+          "4 cloves garlic",
+          "4 egg yolks",
+          "1/2 cup grated Parmesan cheese"
+        ],
+        "cooking_method": "Peel and dice butternut squash. Heat oil in a saucepan, add onion and garlic and cook until softened. Add Arborio rice and cook for 2 minutes. Add chicken broth one cup at a time, stirring until absorbed before adding more. Add butternut squash and continue cooking until rice is tender.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Lobster Mac and Cheese",
+        "img": "https://i.ibb.co/k2zySgn/recipe1.jpg",
+        "ingredients": [
+          "1 lb macaroni",
+          "1 lb lobster meat",
+          "1/4 cup butter",
+          "1/4 cup flour",
+          "2 cups milk"
+        ],
+        "cooking_method": "Preheat oven to 350 degrees. Whisk together flour, cocoa powder, baking soda, salt, and sugar. Stir in eggs, buttermilk, and melted butter until smooth. Pour into a greased cake pan and bake for 35-40 minutes",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chef_name": "Jamie Oliver",
+    "chef_picture": "https://i.ibb.co/ZKXJLJL/chef1.jpg",
+    "years_of_experience": 25,
+    "num_of_recipes": 250,
+    "likes": "10k",
+    "description": "Jamie Oliver is a British chef, restaurateur, and television personality. He is known for his campaigns to improve school lunches and his focus on using fresh and healthy ingredients in his cooking.",
+    "recipes": [
+      {
+        "recipe_name": "Spaghetti Bolognese",
+        "img": "https://i.ibb.co/NtsY0d9/recipe3.jpg",
+        "ingredients": [
+          "1 lb spaghetti",
+          "1 lb ground beef",
+          "1 onion",
+          "2 cloves garlic",
+          "1 can tomatoes"
+        ],
+        "cooking_method": "No method available for this recipe",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Chicken Korma",
+        "img": "https://i.ibb.co/k2zySgn/recipe1.jpg",
+        "ingredients": [
+          "1 lb chicken",
+          "1 onion",
+          "2 cloves garlic",
+          "1 can coconut milk",
+          "1 tbsp curry powder"
+        ],
+        "cooking_method": "No method available for this recipe",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Beef Stir Fry",
+        "img": "https://i.ibb.co/Mgk5WSq/recipe4.jpg",
+        "ingredients": [
+          "1 lb beef sirloin",
+          "1 onion",
+          "1 bell pepper",
+          "2 cloves garlic",
+          "1 tbsp soy sauce"
+        ],
+        "cooking_method": "No method available for this recipe",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chef_name": "Gordon Ramsay",
+    "chef_picture": "https://i.ibb.co/qBjRWHT/chef2.jpg",
+    "years_of_experience": 35,
+    "num_of_recipes": 400,
+    "likes": "19k",
+    "description": "Gordon Ramsay is a British chef, restaurateur, and television personality. He is known for his fiery personality and his focus on using high-quality ingredients in his cooking.",
+    "recipes": [
+      {
+        "recipe_name": "Beef Wellington",
+        "img": "https://i.ibb.co/k2zySgn/recipe1.jpg",
+        "ingredients": [
+          "1 beef tenderloin",
+          "1 lb mushrooms",
+          "1 sheet puff pastry",
+          "1 egg",
+          "1 tbsp Dijon mustard"
+        ],
+        "cooking_method": "Preheat oven to 425 degrees. Season the beef with garlic.",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Scrambled Eggs",
+        "img": "https://i.ibb.co/NtsY0d9/recipe3.jpg",
+        "ingredients": [
+          "4 eggs",
+          "1/4 cup milk",
+          "2 tbsp butter",
+          "1/4 cup grated Parmesan cheese",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Beef Stroganoff",
+        "img": "https://i.ibb.co/Mgk5WSq/recipe4.jpg",
+        "ingredients": [
+          "1 lb beef sirloin",
+          "1 onion",
+          "2 cloves garlic",
+          "1 cup beef broth",
+          "1/2 cup sour cream"
+        ],
+        "cooking_method": "Heat oil in a saucepan, add onion and garlic and cook until softened. Add curry powder and mixed vegetables and cook for 5 minutes. Add vegetable broth and simmer for 20 minutes until vegetables are tender.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Fish and Chips",
+        "img": "https://i.ibb.co/XVB0GTD/recipe2.jpg",
+        "ingredients": [
+          "1 lb white fish",
+          "1 lb potatoes",
+          "1/4 cup flour",
+          "1/4 cup cornmeal",
+          "1/4 cup beer"
+        ],
+        "cooking_method": "",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Beef Burger",
+        "img": "https://i.ibb.co/k2zySgn/recipe1.jpg",
+        "ingredients": [
+          "1 lb ground beef",
+          "1 onion",
+          "1 tomato",
+          "1 lettuce",
+          "4 hamburger buns"
+        ],
+        "cooking_method": "",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Pasta with Clams",
+        "img": "https://i.ibb.co/NtsY0d9/recipe3.jpg",
+        "ingredients": [
+          "1 lb spaghetti",
+          "1 lb clams",
+          "4 cloves garlic",
+          "1/4 cup white wine",
+          "1/3 cup olive oil"
+        ],
+        "cooking_method": "Preheat oven to 425°F. Rub chicken with lemon, olive oil, garlic, and thyme.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chef_name": "Nigella Lawson",
+    "chef_picture": "https://i.ibb.co/Dwr4nNd/chef3.jpg",
+    "years_of_experience": 30,
+    "num_of_recipes": 350,
+    "likes": "18k",
+    "description": "Nigella Lawson is a British food writer, chef, and television personality. She is known for her indulgent recipes and her relaxed approach to cooking.",
+    "recipes": [
+      {
+        "recipe_name": "Chocolate Brownies",
+        "img": "https://i.ibb.co/NtsY0d9/recipe3.jpg",
+        "ingredients": [
+          "1 cup butter",
+          "1 cup sugar",
+          "1 cup flour",
+          "1/2 cup cocoa powder",
+          "4 eggs"
+        ],
+        "cooking_method": "Indulgent recipes and her relaxed approach to cooking.",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Pasta with Clams",
+        "img": "https://i.ibb.co/k2zySgn/recipe1.jpg",
+        "ingredients": [
+          "1 lb spaghetti",
+          "1 lb clams",
+          "4 cloves garlic",
+          "1/4 cup white wine",
+          "1/4 cup olive oil"
+        ],
+        "cooking_method": "",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Pasta with Clams",
+        "img": "https://i.ibb.co/Mgk5WSq/recipe4.jpg",
+        "ingredients": [
+          "1 lb spaghetti",
+          "1 lb clams",
+          "4 cloves garlic",
+          "1/4 cup white wine",
+          "1/3 cup olive oil"
+        ],
+        "cooking_method": "Preheat oven to 425°F. Rub chicken with lemon, olive oil, garlic, and thyme.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chef_name": "Ellivs Tork",
+    "chef_picture": "https://i.ibb.co/tZfVgRW/chef4.jpg",
+    "years_of_experience": 30,
+    "num_of_recipes": 500,
+    "likes": "11k",
+    "description": "Ellivs Tork is a British chef, restaurateur, and television personality. He is known for his fiery temper, his high standards for cooking, and his Michelin-starred restaurants.",
+    "recipes": [
+      {
+        "recipe_name": "Beef Wellington",
+        "img": "https://i.ibb.co/k2zySgn/recipe1.jpg",
+        "ingredients": [
+          "2 lb beef tenderloin",
+          "1 lb mushrooms",
+          "1 onion",
+          "1 tbsp Dijon mustard",
+          "1 sheet puff pastry"
+        ],
+        "cooking_method": "Season the beef with salt and pepper. Sear the beef on all sides until browned. Blend mushrooms and onions until they become a paste. Spread the mixture over the beef. Wrap the beef with puff pastry and bake at 425°F for 30-40 minutes.",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Lemon Herb Roasted Chicken",
+        "img": "https://i.ibb.co/Mgk5WSq/recipe4.jpg",
+        "ingredients": [
+          "1 whole chicken",
+          "1 lemon",
+          "2 tbsp olive oil",
+          "2 cloves garlic",
+          "1 tbsp dried thyme"
+        ],
+        "cooking_method": "Preheat oven to 425°F. Rub chicken with lemon, olive oil, garlic, and thyme. Roast for 60-70 minutes until the chicken is golden brown and the internal temperature reaches 165°F.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Crème Brûlée",
+        "img": "https://i.ibb.co/NtsY0d9/recipe3.jpg",
+        "ingredients": [
+          "4 egg yolks",
+          "1/2 cup sugar",
+          "2 cups heavy cream",
+          "1 tsp vanilla extract",
+          "6 tbsp brown sugar"
+        ],
+        "cooking_method": "Preheat oven to 325°F. Whisk egg yolks and sugar together. Heat cream and vanilla extract until almost boiling. Slowly pour cream into egg mixture while whisking constantly. Pour mixture into ramekins and bake for 35-40 minutes. Chill for at least 2 hours. Sprinkle brown sugar on top and caramelize with a torch.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Crème Brûlée",
+        "img": "https://i.ibb.co/XVB0GTD/recipe2.jpg",
+        "ingredients": [
+          "4 egg yolks",
+          "1/2 cup sugar",
+          "2 cups heavy cream",
+          "1 tsp vanilla extract",
+          "6 tbsp brown sugar"
+        ],
+        "cooking_method": "Preheat oven to 325°F. Whisk egg yolks and sugar together. Heat cream and vanilla extract until almost boiling. Slowly pour cream into egg mixture while whisking constantly. Pour mixture into ramekins and bake for 35-40 minutes. Chill for at least 2 hours. Sprinkle brown sugar on top and caramelize with a torch.",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "chef_name": "Johannes Lue",
+    "chef_picture": "https://i.ibb.co/zJTGcFj/chef8.jpg",
+    "years_of_experience": 27,
+    "num_of_recipes": 65,
+    "likes": "13k",
+    "description": "Nigella Lawson is a British food writer, chef, and television personality. She is known for her indulgent recipes and her relaxed approach to cooking.",
+    "recipes": [
+      {
+        "recipe_name": "Chocolate Brownies",
+        "img": "https://i.ibb.co/XVB0GTD/recipe2.jpg",
+        "ingredients": [
+          "1 cup butter",
+          "1 cup sugar",
+          "1 cup flour",
+          "1/2 cup cocoa powder",
+          "4 eggs"
+        ],
+        "cooking_method": "Indulgent recipes and her relaxed approach to cooking.",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Pasta with Clams",
+        "img": "https://i.ibb.co/NtsY0d9/recipe3.jpg",
+        "ingredients": [
+          "1 lb spaghetti",
+          "1 lb clams",
+          "4 cloves garlic",
+          "1/4 cup white wine",
+          "1/4 cup olive oil"
+        ],
+        "cooking_method": "",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Pasta with Clams",
+        "img": "https://i.ibb.co/Mgk5WSq/recipe4.jpg",
+        "ingredients": [
+          "1 lb spaghetti",
+          "1 lb clams",
+          "4 cloves garlic",
+          "1/4 cup white wine",
+          "1/3 cup olive oil"
+        ],
+        "cooking_method": "Preheat oven to 425°F. Rub chicken with lemon, olive oil, garlic, and thyme.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Crème Brûlée",
+        "img": "https://i.ibb.co/k2zySgn/recipe1.jpg",
+        "ingredients": [
+          "4 egg yolks",
+          "1/2 cup sugar",
+          "2 cups heavy cream",
+          "1 tsp vanilla extract",
+          "6 tbsp brown sugar"
+        ],
+        "cooking_method": "Preheat oven to 325°F. Whisk egg yolks and sugar together. Heat cream and vanilla extract until almost boiling. Slowly pour cream into egg mixture while whisking constantly. Pour mixture into ramekins and bake for 35-40 minutes. Chill for at least 2 hours. Sprinkle brown sugar on top and caramelize with a torch.",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "chef_name": "Ellivs Tork",
+    "chef_picture": "https://i.ibb.co/CMktB8Q/chef7.jpg",
+    "years_of_experience": 21,
+    "num_of_recipes": 120,
+    "likes": "17k",
+    "description": "Ellivs Tork is a British chef, restaurateur, and television personality. He is known for his fiery temper, his high standards for cooking, and his Michelin-starred restaurants.",
+    "recipes": [
+      {
+        "recipe_name": "Beef Wellington",
+        "img": "https://i.ibb.co/Mgk5WSq/recipe4.jpg",
+        "ingredients": [
+          "2 lb beef tenderloin",
+          "1 lb mushrooms",
+          "1 onion",
+          "1 tbsp Dijon mustard",
+          "1 sheet puff pastry"
+        ],
+        "cooking_method": "Season the beef with salt and pepper. Sear the beef on all sides until browned. Blend mushrooms and onions until they become a paste. Spread the mixture over the beef. Wrap the beef with puff pastry and bake at 425°F for 30-40 minutes.",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Lemon Herb Roasted Chicken",
+        "img": "https://i.ibb.co/k2zySgn/recipe1.jpg",
+        "ingredients": [
+          "1 whole chicken",
+          "1 lemon",
+          "2 tbsp olive oil",
+          "2 cloves garlic",
+          "1 tbsp dried thyme"
+        ],
+        "cooking_method": "Preheat oven to 425°F. Rub chicken with lemon, olive oil, garlic, and thyme. Roast for 60-70 minutes until the chicken is golden brown and the internal temperature reaches 165°F.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Crème Brûlée",
+        "img": "https://i.ibb.co/NtsY0d9/recipe3.jpg",
+        "ingredients": [
+          "4 egg yolks",
+          "1/2 cup sugar",
+          "2 cups heavy cream",
+          "1 tsp vanilla extract",
+          "6 tbsp brown sugar"
+        ],
+        "cooking_method": "Preheat oven to 325°F. Whisk egg yolks and sugar together. Heat cream and vanilla extract until almost boiling. Slowly pour cream into egg mixture while whisking constantly. Pour mixture into ramekins and bake for 35-40 minutes. Chill for at least 2 hours. Sprinkle brown sugar on top and caramelize with a torch.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Chocolate Brownies",
+        "img": "https://i.ibb.co/XVB0GTD/recipe2.jpg",
+        "ingredients": [
+          "1 cup butter",
+          "1 cup sugar",
+          "1 cup flour",
+          "1/2 cup cocoa powder",
+          "4 eggs"
+        ],
+        "cooking_method": "Indulgent recipes and her relaxed approach to cooking.",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Pasta with Clams",
+        "img": "https://i.ibb.co/k2zySgn/recipe1.jpg",
+        "ingredients": [
+          "1 lb spaghetti",
+          "1 lb clams",
+          "4 cloves garlic",
+          "1/4 cup white wine",
+          "1/4 cup olive oil"
+        ],
+        "cooking_method": "",
+        "rating": 4.7
+      }
+    ]
+  }
+]
